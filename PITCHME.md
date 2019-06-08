@@ -23,7 +23,7 @@ Photo by **Cameron Casey** from **Pexels**
 @snapend
 ---
 
-![Video](https://www.youtube.com/watch?v=ADvDhkcE9Rs)
+![Video](https://youtu.be/ADvDhkcE9Rs)
 
 ---
 
