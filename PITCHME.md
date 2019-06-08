@@ -2,7 +2,15 @@
 
 ---
 **Sociology** is “the study of society.”
+![Society](https://github.com/bmcphail05/2-WhatIsSoc/society.jpg)
+
+@size[small](Photo by **Kaique Rocha** from **Pexels**)
+
+
+
 ---
+
+
 
 
 
