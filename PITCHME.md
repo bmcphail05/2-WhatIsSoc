@@ -11,10 +11,12 @@ Everyday social life - our thoughts, actions, feelings, decisions, and interacti
 @size[small](Photo by **Markus Spiske**from **Pexels**)
 @snapend
 ---
-@snap
+@snap[north]
 ![Individual](https://raw.githubusercontent.com/bmcphail05/2-WhatIsSoc/master/individual.jpg)
 @size[small](Photo by **David Besh** from **Pexels**)
 @snapend
+
+U.S. society is dominated by individualistic explanations of human behavior.
 ---
 **Sociology** is “the study of society.”
 @img[clean-img span-80](https://raw.githubusercontent.com/bmcphail05/2-WhatIsSoc/master/society.jpg)  
