@@ -1,6 +1,16 @@
 # What is Sociology?
 
 ---
+@snap[north span-50]
+Everyday social life - our thoughts, actions, feelings, decisions, and interactions- is the product of a complex interplay between societal forces and personal characteristics.
+@snapend
+
+@snap[south]
+![Urinals](https://raw.githubusercontent.com/bmcphail05/2-WhatIsSoc/master/urinals.jpg)
+@size[small](Photo by **Markus Spiske**from **Pexels**)
+@snapend
+
+---
 **Sociology** is “the study of society.”
 @img[clean-img span-80](https://raw.githubusercontent.com/bmcphail05/2-WhatIsSoc/master/society.jpg)  
 @size[small](Photo by **Kaique Rocha** from **Pexels**)
@@ -23,7 +33,7 @@ Photo by **Cameron Casey** from **Pexels**
 @snapend
 ---
 
-![Video](https://youtu.be/ADvDhkcE9Rs)
+![Video](https://www.youtube.com/embed/ADvDhkcE9Rs)
 
 ---
 
