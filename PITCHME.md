@@ -66,7 +66,7 @@ Photo by **Cameron Casey** from **Pexels**
 
 ---
 ### Why study sociology?
-@snap[]
+@snap[text-08]
 @ol[text-08](false)
 - It helps us see the world from many different perspectives and improves our understanding about people who are different from us.
 - It facilitates a better self-understanding about who we are as individuals and what factors have shaped our lives. If we know how society works, we have a better chance of influencing our futures both individually and collectively.
