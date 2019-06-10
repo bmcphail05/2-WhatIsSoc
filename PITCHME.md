@@ -2,7 +2,6 @@
 # What is Sociology?
 
 ---
-
 @snap[north span-80 text-08]
 Everyday social life - our thoughts, actions, feelings, decisions, and interactions- is the product of a complex interplay between societal forces and personal characteristics.  
 @snapend
@@ -11,7 +10,7 @@ Everyday social life - our thoughts, actions, feelings, decisions, and interacti
 
 @snap[south span-80]
 ![Urinals](https://raw.githubusercontent.com/bmcphail05/2-WhatIsSoc/master/urinals.jpg)
-@size[small](Photo by **Markus Spiske**from **Pexels**)
+@size[small](Photo by **Markus Spiske** from **Pexels**)
 @snapend
 
 ---
@@ -78,12 +77,27 @@ Photo by **Cameron Casey** from **Pexels**
 The @color[dodgerblue](sociological imagination) is the ability to see the link between what happens in individual lives and larger social forces.
 ---
 **Selective Perception Bias**
-![Video](https://www.youtube.com/embed/vJG698U2Mvo)
+![Basketballs](https://www.youtube.com/embed/vJG698U2Mvo)
 Daniel Simons and Christopher F. Chabris (1999)
 ---
 
 ![WavingGorilla](https://raw.githubusercontent.com/bmcphail05/2-WhatIsSoc/master/wavinggorilla.png)  
-Trafton Drew, Melissa L.-H. Võ, and Jeremy M. Wolfe (2013)
+@size[smaller](Trafton Drew, Melissa L.-H. Võ, and Jeremy M. Wolfe (2013))
+
+---
+![PersonSwap](https://www.youtube.com/embed/vBPG_OBgTWg)
+Derren Brown
+
+---
+@snap[west]
+**Social structures** are patterns of behavior that are repeated over and over until they become an established part of society.
+@snapend
+
+---
+![Roseto](https://www.youtube.com/embed/dC65tHjdpGg)
+The Roseto Effect
+
+---
 
 ---
 @snap[north-west]
@@ -106,5 +120,3 @@ Coffee
 Photo by **Lisa Fotios** from **Pexels**
 @snapend
 ---
-
-docker run -it -v /Users/brianmcphail/Dropbox/Teaching/SOC100/Lectures/2-WhatIsSoc:/repo -p 9000:9000 gitpitch/desktop:pro:/repo
